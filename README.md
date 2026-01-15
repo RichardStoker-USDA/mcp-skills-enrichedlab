@@ -1,4 +1,4 @@
-# enrichedlab MCP Servers & Skills
+# EnRichedlab MCP Servers & Skills
 
 Custom MCP servers and Claude Code skills I've built for my own workflows. Sharing in case others find them useful.
 
